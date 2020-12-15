@@ -1,5 +1,8 @@
 # RECODE community consultation
-(Introduction text needed)
+<span style="color:red">Introduction text needed</span>
+
+## RECODE community consultation workshop
+
 
 ## [Discussion topics](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions)
 *Last updated 2020-12-15*
