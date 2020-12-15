@@ -1,8 +1,15 @@
 # RECODE community consultation
-<span style="color:red">Introduction text needed</span>
+
+\<introduction text needed\>
 
 ## RECODE community consultation workshop
 
+\<brief summary of workshop\>
+
+### Links
+
+- Workshop recording: https://osf.io/bygd5
+- Workshop slides: https://osf.io/uwabk
 
 ## [Discussion topics](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions)
 *Last updated 2020-12-15*
