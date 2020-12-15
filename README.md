@@ -14,3 +14,5 @@ Open repository for public consultation on the RECODE programme requirements and
 
 - [Examples of CMS integrations](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions/12)  
 - [Understanding service integration requirements](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions/13)
+
+### [Community governance](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions?discussions_q=category%3A%22Community+governance%22)
