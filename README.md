@@ -11,7 +11,11 @@
 - Workshop recording: https://osf.io/bygd5
 - Workshop slides: https://osf.io/uwabk
 
-## [Discussion topics](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions)
+## How to join the discussion
+
+\<guidance on signing up to Github, commenting on existing threads, adding new threads, asking questions etc\>
+
+## [Topics and threads](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions)
 *Last updated 2020-12-15*
 
 ### [High level use cases](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions?discussions_q=category%3A%22High+level+use+cases%22)
