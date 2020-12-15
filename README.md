@@ -1,11 +1,11 @@
 # RECODE community consultation
-Open repository for public consultation on the RECODE programme requirements and community collections data management
+(Introduction text needed)
 
 ## [Discussion topics](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions)
 *Last updated 2020-12-15*
 
 ### [High level use cases](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions?discussions_q=category%3A%22High+level+use+cases%22)
-Beyond core collections management activities, what are the broad use case themes relevant to your organisation that a new CMS would need to support? For example, some institutions have living collections, others have frozen tissue collections which integrate with other data systems and processes. We aim to capture these at a very high level, to ensure that the RECODE specification has the potential to address these in the future.
+> Beyond core collections management activities, what are the broad use case themes relevant to your organisation that a new CMS would need to support? For example, some institutions have living collections, others have frozen tissue collections which integrate with other data systems and processes. We aim to capture these at a very high level, to ensure that the RECODE specification has the potential to address these in the future.
 
 #### Current discussion threads
 - 
@@ -22,9 +22,9 @@ Some data and concepts lend themselves to community curation and management. For
 Huge effort has already been invested in CMS development across the sector. There are benefits to aligning system architectures and data standards to ensure compatibility and sustainable data exchange. We seek to understand what these systems are, what data standards are relevant, and examine the functionality of the APIs of these systems in order to assess their potential to facilitate future integrations.
 
 #### Current discussion threads
-- [Examples of CMS integrations](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions/12)  
-- [Understanding service integration requirements](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions/13)
-- [New services for CMS integration](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions/14)
+> - [Examples of CMS integrations](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions/12)  
+> - [Understanding service integration requirements](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions/13)
+> - [New services for CMS integration](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions/14)
 
 ### [Community governance](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions?discussions_q=category%3A%22Community+governance%22)
 Our long term goal is to spread the management and development roadmap of a CMS with other institutions. What are the requirements around governance, funding and development that would build the level of trust necessary for peer institutions to engage more deeply with that roadmap?
