@@ -2,7 +2,7 @@
 Open repository for public consultation on the RECODE programme requirements and community collections data management
 
 ## [Discussion topics](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions)
-(list updated 2020-12-15)
+*Last updated 2020-12-15*
 
 ### [High level use cases](https://github.com/NaturalHistoryMuseum/recode-consultation/discussions?discussions_q=category%3A%22High+level+use+cases%22)
 <br/>
